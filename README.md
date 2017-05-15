@@ -15,7 +15,8 @@
 ### Dynamic Programming
 * [Kadane](./DynamicProgramming/kadane.cpp)
 * [Longest common subsequence](./DynamicProgramming/longest_common_subsequence.cpp)
-* [Rod cutting (Top_down)](./DynamicProgramming/rod_cutting_top_down.cpp)
+* [Longest increasing subsequence](./DynamicProgramming/longest_increasing_subsequence.cpp)
+* [Rod cutting (Top down)](./DynamicProgramming/rod_cutting_top_down.cpp)
 * [Knapsack](./beginners/knapsack01.c)
 
 ### Recursion
