@@ -7,6 +7,7 @@
 * [Dijkestra](./beginners/dijkestra.cpp)
 * [Knapsack](./beginners/knapsack01.c)
 * [Sieve of Eratosthenes](./beginners/sieve.c)
+* [Print all pairs in an array with sum equal to given number](./beginners/pair_with_given_sum.cpp)
 
 ### String Searching algorithms
 * [KMP (Knuth–Morris–Pratt)](./String-Searching-algorithms/KMP.cpp)
