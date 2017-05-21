@@ -1,5 +1,10 @@
 # Play With Algorithms And DataStructures
 
+
+### C++ STL (Standard Template library)
+* [Pairs](./STL/pair.cpp)
+* [Sorting vector of pairs by second element](./STL/sort_vector_of_pairs.cpp)
+
 ### Beginners
 * [BFS (iterative)](./beginners/bfs.cpp)
 * [DFS (iterative)](./beginners/dfs_non_recursive.cpp)
