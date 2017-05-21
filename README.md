@@ -22,6 +22,7 @@
 
 ### Recursion
 * [Print all possible words from phone digits](./Recursion/mobileKeypad.cpp)
+* [Given an odd number, print diamond pattern of stars recursively](./Recursion/diamond.cpp)
 
 ### Sorting
 * [Heap Sort](./Sorting/heapSort.c)
@@ -32,10 +33,19 @@
 * [Fenwick tree (binary indexed tree)](./AdvanceDataStructures/fenwick.c)
 * [Fenwick tree (2 dimensional)](./AdvanceDataStructures/fenwick2d.cpp)
 
+## Resources
 
-## [Ahsan's YouTube Channel](https://www.youtube.com/channel/UC1l3G6AW2Eg1id4CiTUylcg)
+### [An awesome list for competitive programming](http://codeforces.com/blog/entry/23054)
+
+### [Codechef discussion](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
+
+
+## My profiles
+
+#### [Codechef Profile](https://www.codechef.com/users/ahsankamal)  
 
 #### [Math Stackexchange Profile](http://math.stackexchange.com/users/412105/ahsan-kamal)
   
-#### [Codechef Profile](https://www.codechef.com/users/ahsankamal)  
+#### [Ahsan's YouTube Channel](https://www.youtube.com/channel/UC1l3G6AW2Eg1id4CiTUylcg)
+
 
