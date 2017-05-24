@@ -12,7 +12,10 @@
 * [Dijkestra](./beginners/dijkestra.cpp)
 * [Knapsack](./beginners/knapsack01.c)
 * [Sieve of Eratosthenes](./beginners/sieve.c)
-* [Print all pairs in an array with sum equal to given number](./beginners/pair_with_given_sum.cpp)
+* [Print all unique pairs in an array with sum equal to given number](./beginners/pair_with_given_sum.cpp)
+* [Print first pair starting from left whose sum is equal to given number](./beginners/first_sum_of_pairs.rb)
+* [Print all anagrams of a word from a given list of words](./beginners/anagrams.rb)
+* [Print smallest positive integer whose digit's product is equal to given number](./beginners/digits_product.rb)
 
 ### String Searching algorithms
 * [KMP (Knuth–Morris–Pratt)](./String-Searching-algorithms/KMP.cpp)
@@ -28,6 +31,7 @@
 ### Recursion
 * [Print all possible words from phone digits](./Recursion/mobileKeypad.cpp)
 * [Given an odd number, print diamond pattern of stars recursively](./Recursion/diamond.cpp)
+* [Print all subsets of a given set](./Recursion/powerset.rb)
 
 ### Sorting
 * [Heap Sort](./Sorting/heapSort.c)
@@ -50,6 +54,8 @@
 #### [Codechef Profile](https://www.codechef.com/users/ahsankamal)  
 
 #### [Math Stackexchange Profile](http://math.stackexchange.com/users/412105/ahsan-kamal)
+
+#### [Codewars profile](https://www.codewars.com/users/ahsankamal)
   
 #### [Ahsan's YouTube Channel](https://www.youtube.com/channel/UC1l3G6AW2Eg1id4CiTUylcg)
 
