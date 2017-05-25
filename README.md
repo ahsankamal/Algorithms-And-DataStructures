@@ -48,6 +48,9 @@
 
 ### [Codechef discussion](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 
+### [Algorithm Gym::Data Structures](http://codeforces.com/blog/entry/15729)
+
+### [Power up C++ with the Standard Template Library](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)
 
 ## My profiles
 
