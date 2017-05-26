@@ -32,6 +32,7 @@
 * [Print all possible words from phone digits](./Recursion/mobileKeypad.cpp)
 * [Given an odd number, print diamond pattern of stars recursively](./Recursion/diamond.cpp)
 * [Print all subsets of a given set](./Recursion/powerset.rb)
+* [Print all possible variations of a given pin number](./Recursion/connected_digits.rb)
 
 ### Sorting
 * [Heap Sort](./Sorting/heapSort.c)
