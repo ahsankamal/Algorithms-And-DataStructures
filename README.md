@@ -16,6 +16,7 @@
 * [Print first pair starting from left whose sum is equal to given number](./beginners/first_sum_of_pairs.rb)
 * [Print all anagrams of a word from a given list of words](./beginners/anagrams.rb)
 * [Print smallest positive integer whose digit's product is equal to given number](./beginners/digits_product.rb)
+* [Print pascal triangle upto given depth](./beginners/pascal_triangle.rb)
 
 ### String Searching algorithms
 * [KMP (Knuth–Morris–Pratt)](./String-Searching-algorithms/KMP.cpp)
