@@ -27,6 +27,7 @@
 * [Longest increasing subsequence](./DynamicProgramming/longest_increasing_subsequence.cpp)
 * [Rod cutting (Top down)](./DynamicProgramming/rod_cutting_top_down.cpp)
 * [Knapsack](./beginners/knapsack01.c)
+* [Nth Fibonacci](./beginners/memoized_fibonacci.rb)
 
 ### Recursion
 * [Print all possible words from phone digits](./Recursion/mobileKeypad.cpp)
