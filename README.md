@@ -54,6 +54,14 @@
 
 ### [Algorithm Gym::Data Structures](http://codeforces.com/blog/entry/15729)
 
+### [Topcoder tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+
+### [E-Maxx Algorithms](https://e-maxx-eng.appspot.com/)
+
+### [MAXimal Algo](http://e-maxx.ru/algo/)
+
+### [Standard Template Library Programmer's Guide](http://www.sgi.com/tech/stl/)
+
 ### [Power up C++ with the Standard Template Library](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)
 
 ## My profiles
