@@ -52,6 +52,8 @@
 
 ### [Codechef discussion](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 
+### [Getting started](https://www.codechef.com/getting-started)
+
 ### [Algorithm Gym::Data Structures](http://codeforces.com/blog/entry/15729)
 
 ### [Topcoder tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
