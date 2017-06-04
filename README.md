@@ -12,6 +12,7 @@
 * [Dijkestra](./beginners/dijkestra.cpp)
 * [Knapsack](./beginners/knapsack01.c)
 * [Sieve of Eratosthenes](./beginners/sieve.c)
+* [Binary search](./beginners/binary_search.cpp)
 * [Print all unique pairs in an array with sum equal to given number](./beginners/pair_with_given_sum.cpp)
 * [Print first pair starting from left whose sum is equal to given number](./beginners/first_sum_of_pairs.rb)
 * [Print all anagrams of a word from a given list of words](./beginners/anagrams.rb)
@@ -71,6 +72,8 @@
 #### [Math Stackexchange Profile](http://math.stackexchange.com/users/412105/ahsan-kamal)
 
 #### [Codewars profile](https://www.codewars.com/users/ahsankamal)
+
+#### [Codeforces profile](http://codeforces.com/profile/ahsankamal)
   
 #### [Ahsan's YouTube Channel](https://www.youtube.com/channel/UC1l3G6AW2Eg1id4CiTUylcg)
 
