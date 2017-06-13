@@ -12,7 +12,11 @@
 * [Dijkestra](./beginners/dijkestra.cpp)
 * [Knapsack](./beginners/knapsack01.c)
 * [Sieve of Eratosthenes](./beginners/sieve.c)
+<<<<<<< HEAD
 * [Binary search](./beginners/binary_search.cpp)
+=======
+* [Run length encoding](./beginners/run_length_encoding.cpp)
+>>>>>>> run length encoding
 * [Print all unique pairs in an array with sum equal to given number](./beginners/pair_with_given_sum.cpp)
 * [Print first pair starting from left whose sum is equal to given number](./beginners/first_sum_of_pairs.rb)
 * [Print all anagrams of a word from a given list of words](./beginners/anagrams.rb)
